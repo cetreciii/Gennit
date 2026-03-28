@@ -1,6 +1,6 @@
 # 🍽️ Gennit — Safe food parties for everyone
 <p align="center">
-  <img src="assets/banner.png" alt="Gennit Banner" width="100%">
+  <img src="assets/banner2.png" alt="Gennit Banner" width="100%">
 </p>
 
 <p align="center">
