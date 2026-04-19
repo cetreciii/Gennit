@@ -1,0 +1,12 @@
+{                                                                                                                                                                                     
+    "applinks": {                                                                                                                                                                       
+      "details": [                                                                                                                                                                      
+        {                                                                                                                                                                               
+          "appIDs": ["2263LPF2FA.IgorTarantino.FoodIntolerance"],
+          "components": [                                        
+            { "/": "/join*" }                                                                                                                                                           
+          ]
+        }                                                                                                                                                                               
+      ]                                                                                                                                                     
+    }                                                                                                                                                                                   
+  }
